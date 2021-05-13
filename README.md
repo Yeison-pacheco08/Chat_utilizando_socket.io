@@ -1,4 +1,4 @@
-# Chat utlizando socket.io
+# Chat utilizando socket.io
 
 ## INTEGRANTES:
 - Yeison Pacheco Rangel
